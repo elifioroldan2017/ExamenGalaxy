@@ -1,0 +1,6 @@
+@Examen.GestionLibros.API_HostAddress = http://localhost:5167
+
+GET {{Examen.GestionLibros.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

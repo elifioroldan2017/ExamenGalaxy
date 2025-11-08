@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|solutionrelative:examen.gestionlibros.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.api\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|solutionrelative:examen.gestionlibros.api\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.negocio\\implementaciones\\libronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|solutionrelative:examen.gestionlibros.negocio\\implementaciones\\libronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.negocio\\implementaciones\\tipolibronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|solutionrelative:examen.gestionlibros.negocio\\implementaciones\\tipolibronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.negocio\\interfaces\\itipolibronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|solutionrelative:examen.gestionlibros.negocio\\interfaces\\itipolibronegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.negocio\\interfaces\\iautornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|solutionrelative:examen.gestionlibros.negocio\\interfaces\\iautornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.dto\\request\\librorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|solutionrelative:examen.gestionlibros.dto\\request\\librorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.dto\\response\\libroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|solutionrelative:examen.gestionlibros.dto\\response\\libroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|solutionrelative:examen.gestionlibros.entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.entidades\\tipolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|solutionrelative:examen.gestionlibros.entidades\\tipolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|solutionrelative:examen.gestionlibros.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.entidades\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|solutionrelative:examen.gestionlibros.entidades\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.negocio\\implementaciones\\autornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E597FF64-87F4-4995-B5BF-757AEAA3B827}|Examen.GestionLibros.Negocio\\Examen.GestionLibros.Negocio.csproj|solutionrelative:examen.gestionlibros.negocio\\implementaciones\\autornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.repositorios\\implementaciones\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|solutionrelative:examen.gestionlibros.repositorios\\implementaciones\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210DB960-EA74-4F75-8936-3FFF06D0E189}|Examen.GestionLibros.Entidades\\Examen.GestionLibros.Entidades.csproj|solutionrelative:examen.gestionlibros.entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.dto\\response\\autorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|solutionrelative:examen.gestionlibros.dto\\response\\autorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.dto\\request\\autorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|solutionrelative:examen.gestionlibros.dto\\request\\autorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.repositorios\\interfaces\\ilibrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|solutionrelative:examen.gestionlibros.repositorios\\interfaces\\ilibrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.repositorios\\interfaces\\iautorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|solutionrelative:examen.gestionlibros.repositorios\\interfaces\\iautorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.dto\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|solutionrelative:examen.gestionlibros.dto\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.dto\\request\\tipolibrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF73D8-3451-4ED8-842F-22DEF9E8A646}|Examen.GestionLibros.DTO\\Examen.GestionLibros.DTO.csproj|solutionrelative:examen.gestionlibros.dto\\request\\tipolibrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.repositorios\\implementaciones\\tipolibrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|solutionrelative:examen.gestionlibros.repositorios\\implementaciones\\tipolibrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.repositorios\\interfaces\\itipolibrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFFF404-F35C-4EBE-9A7C-DD02E80CD5E9}|Examen.GestionLibros.Repositorios\\Examen.GestionLibros.Repositorios.csproj|solutionrelative:examen.gestionlibros.repositorios\\interfaces\\itipolibrorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|c:\\users\\usuario\\desktop\\examen\\solution1\\examen.gestionlibros.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{692475E2-5D6D-4490-9AD0-6A4C3E270971}|Examen.GestionLibros.API\\Examen.GestionLibros.API.csproj|solutionrelative:examen.gestionlibros.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-08T21:35:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.API\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\Program.cs",
+              "RelativeToolTip": "Examen.GestionLibros.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:08:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.API\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Examen.GestionLibros.API\\Controllers\\LibroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:03:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoLibroNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Implementaciones\\TipoLibroNegocio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Negocio\\Implementaciones\\TipoLibroNegocio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Implementaciones\\TipoLibroNegocio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Negocio\\Implementaciones\\TipoLibroNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:01:00.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITipoLibroNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Interfaces\\ITipoLibroNegocio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Negocio\\Interfaces\\ITipoLibroNegocio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Interfaces\\ITipoLibroNegocio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Negocio\\Interfaces\\ITipoLibroNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:00:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\Libro.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Entidades\\Libro.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:14:07.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Request\\LibroRequest.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.DTO\\Request\\LibroRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Request\\LibroRequest.cs",
+              "RelativeToolTip": "Examen.GestionLibros.DTO\\Request\\LibroRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:11:18.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibroResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Response\\LibroResponse.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.DTO\\Response\\LibroResponse.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Response\\LibroResponse.cs",
+              "RelativeToolTip": "Examen.GestionLibros.DTO\\Response\\LibroResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:11:51.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Implementaciones\\LibroNegocio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Negocio\\Implementaciones\\LibroNegocio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Implementaciones\\LibroNegocio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Negocio\\Implementaciones\\LibroNegocio.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwGAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:16:57.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoLibro.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\TipoLibro.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Entidades\\TipoLibro.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\TipoLibro.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Entidades\\TipoLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:47:39.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAutorNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Interfaces\\IAutorNegocio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Negocio\\Interfaces\\IAutorNegocio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Interfaces\\IAutorNegocio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Negocio\\Interfaces\\IAutorNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:16:11.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntidadBase.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\EntidadBase.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Entidades\\EntidadBase.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\EntidadBase.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Entidades\\EntidadBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:13:54.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RepositorioBase.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Implementaciones\\RepositorioBase.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Repositorios\\Implementaciones\\RepositorioBase.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Implementaciones\\RepositorioBase.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Repositorios\\Implementaciones\\RepositorioBase.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:15:02.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Entidades\\Autor.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:13:52.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.API\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Examen.GestionLibros.API\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvykAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:22:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutorNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Implementaciones\\AutorNegocio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Negocio\\Implementaciones\\AutorNegocio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Negocio\\Implementaciones\\AutorNegocio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Negocio\\Implementaciones\\AutorNegocio.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAiwJcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:15:56.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILibroRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Interfaces\\ILibroRepositorio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Repositorios\\Interfaces\\ILibroRepositorio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Interfaces\\ILibroRepositorio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Repositorios\\Interfaces\\ILibroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:11:11.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAutorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Interfaces\\IAutorRepositorio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Repositorios\\Interfaces\\IAutorRepositorio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Interfaces\\IAutorRepositorio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Repositorios\\Interfaces\\IAutorRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:07:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Request\\AutorRequest.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.DTO\\Request\\AutorRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Request\\AutorRequest.cs",
+              "RelativeToolTip": "Examen.GestionLibros.DTO\\Request\\AutorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:10:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Response\\AutorResponse.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.DTO\\Response\\AutorResponse.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Response\\AutorResponse.cs",
+              "RelativeToolTip": "Examen.GestionLibros.DTO\\Response\\AutorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:11:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TipoLibroRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Request\\TipoLibroRequest.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.DTO\\Request\\TipoLibroRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\Request\\TipoLibroRequest.cs",
+              "RelativeToolTip": "Examen.GestionLibros.DTO\\Request\\TipoLibroRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:58:48.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.DTO\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.DTO\\BaseResponse.cs",
+              "RelativeToolTip": "Examen.GestionLibros.DTO\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:32:58.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITipoLibroRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Interfaces\\ITipoLibroRepositorio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Repositorios\\Interfaces\\ITipoLibroRepositorio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Interfaces\\ITipoLibroRepositorio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Repositorios\\Interfaces\\ITipoLibroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:46:26.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TipoLibroRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Implementaciones\\TipoLibroRepositorio.cs",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.Repositorios\\Implementaciones\\TipoLibroRepositorio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.Repositorios\\Implementaciones\\TipoLibroRepositorio.cs",
+              "RelativeToolTip": "Examen.GestionLibros.Repositorios\\Implementaciones\\TipoLibroRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:47:58.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Examen.GestionLibros.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Examen\\Solution1\\Examen.GestionLibros.API\\appsettings.json",
+              "RelativeToolTip": "Examen.GestionLibros.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T04:14:43.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
